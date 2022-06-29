@@ -4,7 +4,7 @@
 Atualmente trabalho na **Luizalabs**
 
 🖥️ Tecnologias e Ferramentas:
-
+<i class="devicon-mongodb-plain"></i>
 
 
 <!--
