@@ -2,6 +2,8 @@
 ### Bem vindo ao meu perfil GitHub 👋
 
 
+🖥️ Tecnologias e Ferramentas:
+
 <!--
 
 <div>
