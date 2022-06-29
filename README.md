@@ -1,10 +1,21 @@
 ## Olá, me chamo Flavio Henrique ! 
-### Bem vindo ao meu perfil GitHub 👋
+### Bem-vindo ao meu perfil GitHub 👋
 
+Atualmente trabalho na **Luizalabs**
 
 🖥️ Tecnologias e Ferramentas:
 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+          
+          
+          
+
 <!--
+https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=CjwKCAjwzeqVBhAoEiwAOrEmzTUFmhFGEb8IfRg18thX_DgfDMjf1r-148lItlXNPm0bkrP04BcdxBoCd0EQAvD_BwE
 
 <div>
   <a href="https://github.com/flaviohf">
