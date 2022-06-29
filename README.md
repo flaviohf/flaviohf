@@ -1,12 +1,9 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 ## Olá, me chamo Flavio Henrique ! 
 ### Bem-vindo ao meu perfil GitHub 👋
 
 Atualmente trabalho na **Luizalabs**
 
 🖥️ Tecnologias e Ferramentas:
-<i class="devicon-mongodb-plain"></i>
 
 
 <!--
