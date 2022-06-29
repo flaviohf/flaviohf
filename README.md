@@ -7,6 +7,7 @@ Atualmente trabalho na **Luizalabs**
 
 
 
+<!--
 <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 <img width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
@@ -14,7 +15,7 @@ Atualmente trabalho na **Luizalabs**
           
           
 
-<!--
+
 https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github?gclid=CjwKCAjwzeqVBhAoEiwAOrEmzTUFmhFGEb8IfRg18thX_DgfDMjf1r-148lItlXNPm0bkrP04BcdxBoCd0EQAvD_BwE
 
 <div>
