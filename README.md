@@ -7,7 +7,7 @@
 ### Bem-vindo ao meu perfil GitHub 👋
 
 - 💻 Desenvolvedor back-end Java desde 2011
-- 🏢 Atualmente trabalho na <code>Luizalabs</code>
+- 🏢 Atualmente trabalho na <code>Luizalabs/Netshoes</code>
 - 👨‍🎓 Formado em Sistemas de Informação pela <strong>FIAP</strong>
 - 🎓 MBA em Gestão Estratégica de Negócios na <strong>FIAP</strong>
 - 😍 Apaixonado por tecnologia e em como ela pode facilitar a vida das pessoas e melhorar o mundo
@@ -20,6 +20,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)
+![ScyllaDB](https://img.shields.io/badge/ScyllaDB-6CD5E7.svg?style=for-the-badge&logo=ScyllaDB&logoColor=black)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -48,7 +49,7 @@ Others:<br>
 ---
 #### Tecnologias que estou estudando
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 <!-- 
 
